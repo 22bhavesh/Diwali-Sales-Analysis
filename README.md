@@ -1,4 +1,4 @@
-# Diwali Sales Analysis
+# Retail Sales Analysis
 
 This project provides an in-depth analysis of Diwali sales data using Python. The analysis aims to uncover key insights about customer purchasing behavior during the Diwali season, helping stakeholders understand trends and make data-driven decisions to optimize future sales strategies.
 
